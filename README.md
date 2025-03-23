@@ -1,9 +1,12 @@
+
+# ⚠️⚠️⚠️WARNING: This project will no longer be updated. If you’re interested, feel free to fork it.
+
 # SlurmSlim 💵
 
 **Optimize Slurm Job Scheduling with Intelligent Memory Estimation**
 
 ## Overview
-SlurmSlim is a lightweight and efficient tool designed to optimize job scheduling in **Slurm** by accurately estimating the required memory for scripts and programs. By leveraging **Model Context Protocol (MCP)**, **LLM models**, **file sizes**, and **system information**, SlurmSlim helps reduce computing costs by preventing over-allocated memory requests.
+SlurmSlim is a lightweight and efficient tool designed to optimize job scheduling in **Slurm** by accurat  ely estimating the required memory for scripts and programs. By leveraging **Model Context Protocol (MCP)**, **LLM models**, **file sizes**, and **system information**, SlurmSlim helps reduce computing costs by preventing over-allocated memory requests.
 
 ## Features
 - ✅ **Intelligent Memory Estimation** – Uses MCP and LLM models to predict the optimal memory allocation.
